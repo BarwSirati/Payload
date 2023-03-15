@@ -1,0 +1,3 @@
+```bash
+dirsearch -u <target>
+```
