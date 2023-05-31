@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03fd226cc4911151",
+        "id": "24a2a8cf98343418",
         "type": "tabs",
         "children": [
           {
-            "id": "fea747aacc9c8534",
+            "id": "173dee67e5964924",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script/Injection.md",
+                "file": "Script/XXE Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "9e4e2347a7d3061e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script/Injection.md",
+                "file": "Script/XXE Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script/Injection.md",
+                "file": "Script/XXE Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script/Injection.md"
+                "file": "Script/XXE Injection.md"
               }
             }
           }
@@ -146,32 +154,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea747aacc9c8534",
+  "active": "173dee67e5964924",
   "lastOpenFiles": [
-    "Script/JWT Vuln.md",
-    "Script/LPLE.md",
-    "Script/Port Enumerate.md",
-    "Script/Reverse Shell.md",
-    "Script/Search Vuln.md",
-    "Script/Template Enumerate.md",
     "Script/XSS.md",
-    "Script/GIT EXPLOIT.md",
+    "Script/Template Enumerate.md",
+    "Script/Search Vuln.md",
+    "Script/Reverse Shell.md",
+    "Script/Port Enumerate.md",
+    "Script/LPLE.md",
+    "Script/JWT Vuln.md",
     "Script/Injection.md",
+    "Script/GIT EXPLOIT.md",
+    "Script/Directory Search.md",
+    "Script/CSRF.md",
     "Script/Crack.md",
     "Script/Command Injection.md",
+    "HTB/machine/Medium/Escape/Payload.md",
+    "HTB/machine/Easy/MonitorsTwo/Payload.md",
+    "HTB/machine/Easy/Metatwo/Payload.md",
+    "Script/XXE Injection.md",
+    "Untitled 1",
+    "Untitled",
+    "HTB/machine/Easy/MonitorsTwo",
     "HTB/Apocalypse/Didactic Octo Paddles.md",
-    "Script/Directory Search.md",
     "HTB/Apocalypse",
     "HTB/machine",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315162350.png",
-    "HTB/machine/Easy/Metatwo/Payload.md",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315162239.png",
     "HTB/machine/Medium/Escape/img/Pasted image 20230312235218.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160957.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160353.png",
     "HTB/Easy/Metatwo/img/Pasted image 20230315154454.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315152947.png",
-    "HTB/machine/Medium/Escape/Payload.md",
     "Pasted image 20230315154516.png.md",
     "[.md",
     "Script",
@@ -182,9 +196,6 @@
     "Pasted image 20230315154516.png",
     "HTB/machine/Easy/Metatwo",
     "HTB/machine/Easy",
-    "HTB/machine/Medium/Escape/img/Pasted image 20230312235546.png",
-    "HTB/machine/Medium/Escape",
-    "HTB/machine/Medium",
-    "HTB"
+    "HTB/machine/Medium/Escape/img/Pasted image 20230312235546.png"
   ]
 }

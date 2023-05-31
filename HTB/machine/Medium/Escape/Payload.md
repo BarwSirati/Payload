@@ -9,6 +9,7 @@ SMB Enumerate
 ```bash
 smbmap -u 'guest' -p '' -H 10.10.11.202
 ```
+
 ![[Pasted image 20230312235546.png]]
 
 Download File From Public
