@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/machine/Medium/Escape/Payload.md",
+                "file": "Script/Reverse Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/machine/Medium/Escape/Payload.md",
+                "file": "Script/Reverse Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/machine/Medium/Escape/Payload.md",
+                "file": "Script/Reverse Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/machine/Medium/Escape/Payload.md"
+                "file": "Script/Reverse Shell.md"
               }
             }
           }
@@ -181,8 +181,13 @@
   },
   "active": "52cfd52fb558f192",
   "lastOpenFiles": [
-    "HTB/machine/Medium/Escape/img/Pasted image 20230312235218.png",
+    "Script/Search Vuln.md",
     "Script/TCPDUMP.md",
+    "Script/Template Enumerate.md",
+    "Script/XSS.md",
+    "HTB/machine/Easy/Metatwo/Payload.md",
+    "HTB/machine/Medium/Escape/Payload.md",
+    "HTB/machine/Medium/Escape/img/Pasted image 20230312235218.png",
     "Script/Forward Port.md",
     "Script/Reverse Shell.md",
     "Script/Port Enumerate.md",
@@ -193,20 +198,15 @@
     "Script/Command Injection.md",
     "Script/LPLE.md",
     "Script/JWT Vuln.md",
-    "Script/Search Vuln.md",
-    "Script/Template Enumerate.md",
-    "Script/XSS.md",
     "HTB/Apocalypse/Didactic Octo Paddles.md",
     "HTB/Apocalypse",
     "HTB/machine",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315162350.png",
-    "HTB/machine/Easy/Metatwo/Payload.md",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315162239.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160957.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160353.png",
     "HTB/Easy/Metatwo/img/Pasted image 20230315154454.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315152947.png",
-    "HTB/machine/Medium/Escape/Payload.md",
     "Pasted image 20230315154516.png.md",
     "[.md",
     "Script",
