@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script/Meterpreter Commands.md",
+                "file": "HTB Academy/Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "76c1820e1b2acb9a",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script/Meterpreter Commands.md",
+                "file": "HTB Academy/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script/Meterpreter Commands.md",
+                "file": "HTB Academy/Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script/Meterpreter Commands.md"
+                "file": "HTB Academy/Metasploit.md"
               }
             }
           }
@@ -170,8 +169,11 @@
   },
   "active": "f2e8d9e707fd20d4",
   "lastOpenFiles": [
-    "Script/MSFconsole Commands.md",
+    "HTB Academy.md",
+    "HTB Academy/Metasploit.md",
+    "HTB Academy",
     "Script/Meterpreter Commands.md",
+    "Script/MSFconsole Commands.md",
     "Script/Gobuster.md",
     "Script/SMB.md",
     "Script/Search Vuln.md",
@@ -195,8 +197,6 @@
     "Script/XSS.md",
     "Script/XXE Injection.md",
     "Script/LPLE.md",
-    "Script/Interactive Shell.md",
-    "Script/JWT Vuln.md",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315152947.png",
     "x.json",
     "HTB/machine/Easy/MonitorsTwo",
@@ -214,7 +214,6 @@
     "Pasted image 20230315154513.png",
     "Pasted image 20230315154516.png",
     "HTB/machine/Easy/Metatwo",
-    "HTB/machine/Easy",
-    "HTB/machine/Medium/Escape"
+    "HTB/machine/Easy"
   ]
 }
