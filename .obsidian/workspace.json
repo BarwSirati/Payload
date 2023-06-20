@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script/Other.md",
+                "file": "Script/Search Vuln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97a3c50f9a8723b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script/Gobuster.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script/Other.md",
+                "file": "Script/Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script/Other.md",
+                "file": "Script/Gobuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script/Other.md"
+                "file": "Script/Gobuster.md"
               }
             }
           }
@@ -203,27 +215,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e59a1aa2cc46e36b",
+  "active": "97a3c50f9a8723b3",
   "lastOpenFiles": [
-    "Script/Other.md",
+    "Script/Search Vuln.md",
+    "Script/Gobuster.md",
+    "Script/Reverse Shell.md",
+    "Script/Port Enumerate.md",
+    "Script/Web Socket.md",
+    "Script/Template Enumerate.md",
+    "Script/SQL Injection.md",
+    "Script/TCPDUMP.md",
     "Script/Forward Port.md",
+    "Script/Untitled.md",
     "Script/GIT EXPLOIT.md",
     "Script/Directory Search.md",
     "Script/CSRF.md",
     "Script/Crack.md",
     "Script/Command Injection.md",
-    "Script/TCPDUMP.md",
-    "Script/Template Enumerate.md",
     "Script/XSS.md",
     "Script/XXE Injection.md",
     "HTB/machine/Medium/Escape/Payload.md",
-    "Script/SQL Injection.md",
-    "Script/Search Vuln.md",
-    "Script/Port Enumerate.md",
     "Script/LPLE.md",
     "Script/Interactive Shell.md",
     "Script/JWT Vuln.md",
-    "Script/Reverse Shell.md",
     "HTB/machine/Easy/Metatwo/Payload.md",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315152947.png",
     "x.json",
@@ -241,7 +255,6 @@
     "Pasted image 20230315154516.png.md",
     "[.md",
     "Script",
-    "HTB/Medium/Escape/Untitled.md",
     "HTB/machine/Medium/Escape/img",
     "HTB/machine/Easy/Metatwo/img",
     "Pasted image 20230315154513.png",
