@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "c3a6c8e8f04fc1b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Script/Forward Port.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e59a1aa2cc46e36b",
             "type": "leaf",
             "state": {
@@ -73,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script/Gobuster.md",
+                "file": "Script/SMB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "869e20b887aad640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script/Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97df34032d5a9318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script/SMB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script/Gobuster.md",
+                "file": "Script/SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script/Gobuster.md",
+                "file": "Script/SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script/Gobuster.md"
+                "file": "Script/SMB.md"
               }
             }
           }
@@ -215,9 +227,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97a3c50f9a8723b3",
+  "active": "97df34032d5a9318",
   "lastOpenFiles": [
     "Script/Search Vuln.md",
+    "Script/Cheat Sheet.md",
+    "Script/SMB.md",
+    "HTB/machine/Medium/Escape/Payload.md",
+    "HTB/machine/Medium/Escape/img/Pasted image 20230312235546.png",
+    "Script/Forward Port.md",
+    "HTB/machine/Easy/MonitorsTwo/Payload.md",
+    "HTB/machine/Easy/Metatwo/Payload.md",
     "Script/Gobuster.md",
     "Script/Reverse Shell.md",
     "Script/Port Enumerate.md",
@@ -225,7 +244,6 @@
     "Script/Template Enumerate.md",
     "Script/SQL Injection.md",
     "Script/TCPDUMP.md",
-    "Script/Forward Port.md",
     "Script/Untitled.md",
     "Script/GIT EXPLOIT.md",
     "Script/Directory Search.md",
@@ -234,14 +252,11 @@
     "Script/Command Injection.md",
     "Script/XSS.md",
     "Script/XXE Injection.md",
-    "HTB/machine/Medium/Escape/Payload.md",
     "Script/LPLE.md",
     "Script/Interactive Shell.md",
     "Script/JWT Vuln.md",
-    "HTB/machine/Easy/Metatwo/Payload.md",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315152947.png",
     "x.json",
-    "HTB/machine/Easy/MonitorsTwo/Payload.md",
     "HTB/machine/Easy/MonitorsTwo",
     "HTB/machine/Medium/Escape/img/Pasted image 20230312235218.png",
     "HTB/Apocalypse/Didactic Octo Paddles.md",
@@ -252,8 +267,6 @@
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160957.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160353.png",
     "HTB/Easy/Metatwo/img/Pasted image 20230315154454.png",
-    "Pasted image 20230315154516.png.md",
-    "[.md",
     "Script",
     "HTB/machine/Medium/Escape/img",
     "HTB/machine/Easy/Metatwo/img",
@@ -261,7 +274,6 @@
     "Pasted image 20230315154516.png",
     "HTB/machine/Easy/Metatwo",
     "HTB/machine/Easy",
-    "HTB/machine/Medium/Escape/img/Pasted image 20230312235546.png",
     "HTB/machine/Medium/Escape"
   ]
 }
