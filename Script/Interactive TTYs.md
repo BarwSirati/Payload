@@ -1,6 +1,6 @@
 Upgrading Simple Shells to Fully Interactive TTYs
 ```bash
-python -c 'import pty; pty.spawn("/bin/bash")' # On victim 
+python3 -c 'import pty; pty.spawn("/bin/bash")' # On victim 
 ctrl -Z 
 stty raw -echo;fg 
 export TERM=xterm 

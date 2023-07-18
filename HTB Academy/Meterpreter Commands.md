@@ -40,4 +40,5 @@
 | `add_group_user <"Domain Admins"> <username> -h <ip>` | Add a username to the Domain Administrators group on the remote target. |
 | `clearev`                                                   | Clear the event log on the target machine.                   |
 | `timestomp`                                                 | Change file attributes, such as creation date (antiforensics measure). |
-| `reboot`                                                    | Reboot the target machine.                                   |
+| `reboot`                                                    | Reboot the target machine.        
+|
