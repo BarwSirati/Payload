@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c764eb0e3738cca0",
+        "id": "fd654bf60d54c8e2",
         "type": "tabs",
         "children": [
           {
-            "id": "ea148a1cce13d3ba",
+            "id": "eb67a7d1e90fa27c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script/Interactive TTYs.md",
+                "file": "All Script/SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5c24e2cc18e14da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Script/SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5159e01744a6a533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mobile/Setup Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script/Interactive TTYs.md",
+                "file": "Mobile/Setup Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script/Interactive TTYs.md",
+                "file": "Mobile/Setup Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +158,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script/Interactive TTYs.md"
+                "file": "Mobile/Setup Tools.md"
               }
             }
           },
           {
-            "id": "284d5ec3d2013aa4",
+            "id": "7d7424ab635d4909",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "2a5c36cab3035f3b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -164,35 +199,37 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ea148a1cce13d3ba",
+  "active": "47e83f197988fb20",
   "lastOpenFiles": [
-    "Script/Reverse Shell.md",
-    "Script/Port Enumerate.md",
-    "Script/Interactive TTYs.md",
-    "Script/Search Vuln.md",
-    "Script/Meterpreter Commands.md",
-    "Script/MSFconsole Commands.md",
-    "Script/LPLE.md",
-    "Script/JWT Vuln.md",
-    "Script/Untitled.canvas",
-    "Untitled.md",
-    "2023-07-13.md",
-    "Script/Command Injection.md",
-    "Untitled.canvas",
-    "Script/Cheat Sheet.md",
-    "Untitled Kanban.md",
-    "Script/Forward Port.md",
-    "HTB Academy/Meterpreter Commands.md",
+    "Window",
+    "All Script/Interactive TTYs.md",
+    "Mobile/Setup Tools.md",
+    "Mobile",
+    "All Script/Common Knowledge.md",
+    "All Script/Command Injection.md",
+    "All Script/Cheat Sheet.md",
+    "All Script/SMB.md",
+    "All Script/Search Vuln.md",
+    "All Script/Reverse Shell.md",
+    "All Script/MSFconsole Commands.md",
+    "All Script/Meterpreter Commands.md",
+    "All Script/JWT Vuln.md",
+    "All Script/Gobuster.md",
+    "All Script/Git Exploit.md",
+    "All Script/Directory Search.md",
+    "All Script/Crack.md",
+    "All Script/CSRF.md",
+    "All Script/SQL Injection.md",
+    "Note.md",
     "HTB Academy/MSFconsole Commands.md",
-    "Meeting 1.md",
-    "Script/Directory Search.md",
-    "Script/CSRF.md",
-    "Script/Common Knowledge.md",
-    "Script/grpc.md",
-    "Script/Gobuster.md",
-    "Script/SSRF.md",
-    "Script/XSS.md",
-    "Script/XXE Injection.md",
+    "HTB Academy/Meterpreter Commands.md",
+    "All Script/XXE Injection.md",
+    "All Script/Web Socket.md",
+    "All Script/Template Enumerate.md",
+    "All Script/SSTI.md",
+    "All Script/SSRF.md",
+    "Script/Untitled.canvas",
+    "Untitled.canvas",
     "HTB Academy",
     "HTB/machine/Medium/Escape/img/Pasted image 20230312235546.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315152947.png",
@@ -206,12 +243,11 @@
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160957.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160353.png",
     "HTB/Easy/Metatwo/img/Pasted image 20230315154454.png",
-    "Script",
+    "All Script",
     "HTB/machine/Medium/Escape/img",
     "HTB/machine/Easy/Metatwo/img",
     "Pasted image 20230315154513.png",
     "Pasted image 20230315154516.png",
-    "HTB/machine/Easy/Metatwo",
-    "HTB/machine/Easy"
+    "HTB/machine/Easy/Metatwo"
   ]
 }

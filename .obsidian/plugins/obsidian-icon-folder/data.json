@@ -6,6 +6,8 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🪟",
+      "📱",
       "IbCommand",
       "IbFolder"
     ],
@@ -20,5 +22,7 @@
     "iconInTabsEnabled": true
   },
   "HTB Academy": "IbFolder",
-  "Script": "IbCommand"
+  "Mobile": "📱",
+  "All Script": "IbCommand",
+  "Window": "🪟"
 }

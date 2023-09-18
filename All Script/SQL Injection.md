@@ -3,6 +3,26 @@ Sqlmap [File]
 sqlmap -r <file> 
 ```
 
+Sqlmap (autocomplete)
+```bash
+sqlmap -r <file> --batch
+```
+
+Sqlmap  (list all db)
+```bash
+sqlmap -r <file> --batch --dbs
+```
+
+Sqlmap  (list all table)
+```bash
+sqlmap -r <file> --batch -D <databasename> --tables
+```
+
+Sqlmap (dump)
+```bash
+sqlmap -r <file> --batch -D <databasename> -T <tablename> --dump
+```
+
 Sqlmap [URL]
 ```bash
 sqlmap -u <url> -data "<body>"
@@ -10,7 +30,7 @@ sqlmap -u <url> -data "<body>"
 
 Sqlmap (dump all & skip default DBs)
 ```bash
-sqlmap -r <file> --dump-all --exclude-sysdbs
+sqlmap -r <file> --batch --dump-all --exclude-sysdbs
 ```
 
 Sqlmap

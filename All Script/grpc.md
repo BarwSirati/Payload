@@ -15,4 +15,7 @@ def intercept_call(client_call_details):
 channel = grpc.insecure_channel('<target>:<port>')  
 intercepted_channel = grpc.intercept_channel(channel, intercept_call)
 ```
-i
+
+
+grpcui
+https://github.com/fullstorydev/grpcui.git
