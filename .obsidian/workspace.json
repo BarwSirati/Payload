@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fd654bf60d54c8e2",
+        "id": "14b40445cec09954",
         "type": "tabs",
         "children": [
           {
-            "id": "eb67a7d1e90fa27c",
+            "id": "080fdd826c2f298c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All Script/SQL Injection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5c24e2cc18e14da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All Script/SQL Injection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5159e01744a6a533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile/Setup Tools.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile/Setup Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile/Setup Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mobile/Setup Tools.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,15 +166,22 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "47e83f197988fb20",
+  "active": "080fdd826c2f298c",
   "lastOpenFiles": [
-    "Window",
-    "All Script/Interactive TTYs.md",
-    "Mobile/Setup Tools.md",
-    "Mobile",
     "All Script/Common Knowledge.md",
+    "All Script/Crack.md",
     "All Script/Command Injection.md",
     "All Script/Cheat Sheet.md",
+    "MonitoringTools/Installation.md",
+    "All Script/SQL Injection.md",
+    "MonitoringTools",
+    "2023-09-21.md",
+    "All Script/Git Exploit.md",
+    "Window/Learning.md",
+    "Mobile/Setup Tools.md",
+    "Window",
+    "All Script/Interactive TTYs.md",
+    "Mobile",
     "All Script/SMB.md",
     "All Script/Search Vuln.md",
     "All Script/Reverse Shell.md",
@@ -215,19 +189,13 @@
     "All Script/Meterpreter Commands.md",
     "All Script/JWT Vuln.md",
     "All Script/Gobuster.md",
-    "All Script/Git Exploit.md",
     "All Script/Directory Search.md",
-    "All Script/Crack.md",
     "All Script/CSRF.md",
-    "All Script/SQL Injection.md",
     "Note.md",
     "HTB Academy/MSFconsole Commands.md",
     "HTB Academy/Meterpreter Commands.md",
     "All Script/XXE Injection.md",
     "All Script/Web Socket.md",
-    "All Script/Template Enumerate.md",
-    "All Script/SSTI.md",
-    "All Script/SSRF.md",
     "Script/Untitled.canvas",
     "Untitled.canvas",
     "HTB Academy",
@@ -245,9 +213,7 @@
     "HTB/Easy/Metatwo/img/Pasted image 20230315154454.png",
     "All Script",
     "HTB/machine/Medium/Escape/img",
-    "HTB/machine/Easy/Metatwo/img",
     "Pasted image 20230315154513.png",
-    "Pasted image 20230315154516.png",
-    "HTB/machine/Easy/Metatwo"
+    "Pasted image 20230315154516.png"
   ]
 }
