@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Script/SSTI/Jinja2.md",
+                "file": "Mobile/Setup Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Script/SSTI/Jinja2.md",
+                "file": "Mobile/Setup Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Script/SSTI/Jinja2.md",
+                "file": "Mobile/Setup Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Script/SSTI/Jinja2.md"
+                "file": "Mobile/Setup Tools.md"
               }
             }
           },
@@ -177,9 +177,11 @@
   },
   "active": "080fdd826c2f298c",
   "lastOpenFiles": [
+    "MonitoringTools/Installation.md",
+    "Mobile/Setup Tools.md",
+    "All Script/SSTI/Jinja2.md",
     "All Script/Common Knowledge.md",
     "All Script/Command Injection.md",
-    "All Script/SSTI/Jinja2.md",
     "All Script/Cheat Sheet.md",
     "All Script/SSTI",
     "All Script/Interactive TTYs.md",
@@ -190,9 +192,7 @@
     "All Script/Directory Search.md",
     "All Script/CSRF.md",
     "All Script/Crack.md",
-    "Mobile/Setup Tools.md",
     "All Script/grpc.md",
-    "MonitoringTools/Installation.md",
     "All Script/SQL Injection.md",
     "MonitoringTools",
     "2023-09-21.md",
