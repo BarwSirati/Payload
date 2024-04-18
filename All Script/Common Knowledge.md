@@ -13,3 +13,9 @@ check port
 sudo netstat -tulpn | grep LISTEN
 ```
 
+mysql connect
+```c
+mysql -u {username} -p {database}
+```
+
+

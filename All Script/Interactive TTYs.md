@@ -2,10 +2,11 @@ Upgrading Simple Shells to Fully Interactive TTYs
 ```bash
 python3 -c 'import pty; pty.spawn("/bin/bash")' # On victim 
 ctrl -Z 
-stty raw -echo;fg 
+stty raw -echo;fg
 export TERM=xterm 
 # your terminal type 
-# echo $TERM stty rows 29 columns 96 
+# echo $TERM 
+# stty rows 29 columns 96 
 # your current terminal rows and columns 
 # stty -a
 ```

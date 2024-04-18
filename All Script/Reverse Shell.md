@@ -1,3 +1,8 @@
+PoC
+```bash
+ping -c 3 <ip>
+```
+
 Open WebServer [Python]
 ```bash
 python3 -m http.server <port>
