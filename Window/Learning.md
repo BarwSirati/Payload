@@ -26,3 +26,4 @@ icacls <path> /grant user:<permisson>
 - `R` :  read-only access
 - `W` :  write-only access
 
+

@@ -6,7 +6,7 @@ stty raw -echo;fg
 export TERM=xterm 
 # your terminal type 
 # echo $TERM 
-# stty rows 29 columns 96 
+# stty rows 53 columns 187 
 # your current terminal rows and columns 
 # stty -a
 ```
