@@ -1,0 +1,4 @@
+```
+sudo responder -I {INTERFACE}  
+```
+

@@ -24,4 +24,3 @@ ps -p $$
 exec bash --login 
 # change to bash shell
 ```
-

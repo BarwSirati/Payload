@@ -33,14 +33,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Window/ADCS.md",
+                "file": "All Script/Interactive TTYs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f32dd0b7ffd930d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Script/Window/ADCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1424766847bb2e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Script/Window/ADCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de3e39ebf594847d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Script/Window/Common Knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Window/ADCS.md",
+                "file": "All Script/Window/Common Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Window/ADCS.md",
+                "file": "All Script/Window/Common Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Window/ADCS.md"
+                "file": "All Script/Window/Common Knowledge.md"
               }
             }
           },
@@ -197,39 +233,40 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0fa0a463481828fe",
+  "active": "de3e39ebf594847d",
   "lastOpenFiles": [
-    "Window/Learning.md",
-    "Window/ADCS.md",
-    "Mobile/Setup Tools.md",
-    "All Script/Cheat Sheet.md",
-    "All Script/CMS Template Enumerate.md",
-    "All Script/Common Knowledge.md",
-    "All Script/Gobuster.md",
-    "All Script/Directory Search.md",
-    "All Script/CSRF.md",
-    "All Script/Crack.md",
-    "All Script/Command Injection.md",
-    "All Script/SMB.md",
-    "All Script/SSRF.md",
-    "All Script/Web Socket.md",
-    "All Script/XXE Injection.md",
-    "All Script/XSS.md",
-    "All Script/SQL Injection.md",
-    "All Script/Search Vuln.md",
-    "All Script/Reverse Shell.md",
+    "All Script/Window/Bypass AMSI.md",
+    "All Script/Window/Password Spray.md",
+    "All Script/Window/Kerberoast.md",
+    "All Script/Window/Enumeration.md",
+    "All Script/Window/Common Knowledge.md",
+    "All Script/Window/Get Credential from lsass.exe.md",
+    "All Script/Window/Memory Dumping.md",
+    "All Script/Window/DcSync.md",
+    "All Script/Window/Hijack with shortcut.md",
+    "All Script/Window/SMB Server.md",
+    "All Script/Send Mail.md",
+    "All Script/Window/ADCS.md",
+    "All Script/Window/AdPEAS.md",
+    "All Script/Window/PassTheTicket.md",
     "All Script/Forward Port.md",
-    "All Script/Meterpreter Commands.md",
-    "All Script/MSFconsole Commands.md",
     "All Script/Port Enumerate.md",
-    "All Script/LPLE.md",
+    "All Script/Window/Enable WebDav.md",
+    "All Script/Cheat Sheet.md",
+    "All Script/Window/Responder.md",
+    "All Script/Msfvenom.md",
+    "All Script/Window",
+    "All Script/CMS Template Enumerate.md",
+    "Window/ADCS.md",
+    "Window/Learning.md",
+    "All Script/Gobuster.md",
+    "All Script/Git Exploit.md",
     "All Script/JWT Vuln.md",
-    "All Script/Interactive TTYs.md",
     "All Script/Flask",
     "All Script/SSTI",
     "MonitoringTools",
-    "Window",
-    "Mobile",
+    "All Script/Window",
+    "All Script/Mobile",
     "Script/Untitled.canvas",
     "Untitled.canvas",
     "HTB Academy",
@@ -239,7 +276,6 @@
     "HTB/machine/Easy/MonitorsTwo",
     "HTB/machine/Medium/Escape/img/Pasted image 20230312235218.png",
     "HTB/Apocalypse",
-    "HTB/machine",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315162350.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315162239.png",
     "HTB/machine/Easy/Metatwo/img/Pasted image 20230315160957.png",

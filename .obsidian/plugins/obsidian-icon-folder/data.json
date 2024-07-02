@@ -22,9 +22,8 @@
     },
     "iconInTabsEnabled": true
   },
-  "HTB Academy": "IbFolder",
-  "Mobile": "📱",
   "All Script": "IbCommand",
-  "Window": "🪟",
-  "MonitoringTools": "IbHeartbeatMonitor"
+  "MonitoringTools": "IbHeartbeatMonitor",
+  "All Script/Mobile": "📱",
+  "All Script/Window": "🪟"
 }

